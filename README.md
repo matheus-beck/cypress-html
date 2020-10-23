@@ -1,4 +1,4 @@
-# 👨‍💻 QA Cypress Challenge
+# 👨‍💻 QA Cypress Challenge for Cubos.io
 
 <p align="center">
   <img alt="GitHub powered by" src="https://img.shields.io/badge/cypress.io-tests-green.svg?style=flat-square">
@@ -8,7 +8,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/matheus-beck/qa-challenge">
 </p>
 
-Cypress end-to-end test in an HTML page (`toTest.html`) for the tech quality assurance challenge from a company. The tests are inside `cypress/integration/qa-challenge.spec.js`
+Cypress end-to-end test in an HTML page (`toTest.html`) for the tech quality assurance challenge from [Cubos](https://cubos.io/). The tests are inside `cypress/integration/qa-challenge.spec.js`
 
 ## 🎥 Tests execution demonstration
 
